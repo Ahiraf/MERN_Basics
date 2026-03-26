@@ -24,7 +24,7 @@ Run the following command in the terminal:
 ```bash
 npm init
 ```
-** To skip the questions : 
+**To skip the questions:**
 ```
 npm init -y
 
