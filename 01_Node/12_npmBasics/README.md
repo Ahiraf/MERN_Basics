@@ -22,7 +22,12 @@ NPM is a package manager for JavaScript that allows us to use external (third-pa
 Run the following command in the terminal:
 
 ```bash
-npm initnpm
+npm init
+```
+** To skip the questions : 
+```
+npm init -y
+
 ```
 
 ### 2️⃣ Install a Package
