@@ -27,3 +27,17 @@ This folder contains my daily practice files and notes as I learn Node.js. My go
 To run any of the practice scripts, I use:
 ```bash
 node <folder_name>/<file_name>.js
+
+11_ServerStatus.js:
+
+<img width="1277" height="629" alt="Screenshot 2026-03-25 at 3 17 59 PM" src="https://github.com/user-attachments/assets/a9b515b8-a8bb-4795-aecc-f48e9af326ff" />
+
+
+<img width="1280" height="628" alt="Screenshot 2026-03-25 at 3 28 29 PM" src="https://github.com/user-attachments/assets/42aaf152-5f8b-4402-8aac-aec69204c2e5" />
+
+
+
+
+14_nodemon.js :
+
+<img width="803" height="347" alt="Screenshot 2026-03-27 at 12 40 36 PM" src="https://github.com/user-attachments/assets/ae30d7e7-cf34-40a9-9404-27a1f8ba0b02" />
