@@ -1,4 +1,4 @@
-<img width="479" height="174" alt="Screenshot 2026-03-27 at 5 38 33 PM" src="https://github.com/user-attachments/assets/63d273aa-6fc8-4e80-b0ea-d43c301ab962" /># 🌐 Simple Node.js HTTP Routing Server
+# 🌐 Simple Node.js HTTP Routing Server
 
 This project demonstrates a basic HTTP server with routing using Node.js. It serves different HTML pages based on the URL requested by the user.
 
