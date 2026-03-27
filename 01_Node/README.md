@@ -27,6 +27,7 @@ This folder contains my daily practice files and notes as I learn Node.js. My go
 To run any of the practice scripts, I use:
 ```bash
 node <folder_name>/<file_name>.js
+```
 
 11_ServerStatus.js:
 
